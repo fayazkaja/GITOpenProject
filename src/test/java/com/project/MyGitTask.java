@@ -10,16 +10,6 @@ public class MyGitTask {
 	private void method3() {
 		System.out.println("Method 3");
 	}
-<<<<<<< HEAD
-	private void method7() {
-		System.out.println("Method 7");
-	}
-	private void method8() {
-		System.out.println("Method 8");
-	}
-	private void method9() {
-		System.out.println("Method 9");
-=======
 	private void method4() {
 		System.out.println("Method 4");
 	}
@@ -28,6 +18,15 @@ public class MyGitTask {
 	}
 	private void method6() {
 		System.out.println("Method 6");
->>>>>>> 04f6cfa4fbf1ce959120a9f62e3076d86bb21883
+	}
+	private void method7() {
+		System.out.println("Method 7");
+	}
+	private void method8() {
+		System.out.println("Method 8");
+	}
+	private void method9() {
+		System.out.println("Method 9");
+
 	}
 }
